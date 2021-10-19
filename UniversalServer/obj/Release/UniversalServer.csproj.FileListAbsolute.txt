@@ -1,0 +1,5 @@
+C:\Users\PARASIC\source\repos\UniversalServer\UniversalServer\obj\Release\UniversalServer.csprojAssemblyReference.cache
+C:\Users\PARASIC\source\repos\UniversalServer\UniversalServer\obj\Release\UniversalServer.exe.config
+C:\Users\PARASIC\source\repos\UniversalServer\UniversalServer\obj\Release\App.g.cs
+C:\Users\PARASIC\source\repos\UniversalServer\UniversalServer\obj\Release\UniversalServer_Content.g.cs
+C:\Users\PARASIC\source\repos\UniversalServer\UniversalServer\obj\Release\UniversalServer_MarkupCompile.cache
